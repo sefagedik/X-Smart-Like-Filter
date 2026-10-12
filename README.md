@@ -86,4 +86,12 @@ x-smart-like-filter/
 
 ## License
 
-MIT License. See [LICENSE](./LICENSE).
+Developed by Sefa Gedik
+Sefa Gedik is the developer and maintainer of X Smart Like Filter.
+- Developer: Sefa Gedik
+- Official Website: www.sefagedik.com.tr
+- GitHub: github.com/sefagedik
+- Project Repository: X Smart Like Filter
+Copyright
+Copyright © 2026 Sefa Gedik.
+This project is released under the MIT License. See the LICENSE file for details.
